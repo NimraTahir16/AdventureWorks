@@ -32,7 +32,7 @@ Business Value: Provided a clear overview of sales performance and helped identi
 
 
 <p align="center">
-Exec Sumary: <br/>
+Exec Summary: <br/>
 <img width="880" height="500" alt="image" src="https://github.com/user-attachments/assets/6f391ec0-0200-4ba8-a264-1f8b1227b5f2" />
 <br />
 <br />
