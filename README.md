@@ -32,10 +32,24 @@ Business Value: Provided a clear overview of sales performance and helped identi
 
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Exec Sumary: <br/>
+<img width="880" height="500" alt="image" src="https://github.com/user-attachments/assets/6f391ec0-0200-4ba8-a264-1f8b1227b5f2" />
 <br />
 <br />
+
+ 
+Product Details: <br/>
+<img width="881" height="495" alt="image" src="https://github.com/user-attachments/assets/dc0aad9a-ba14-4c36-a7e9-0ceff868d481" />
+<br />
+<br />
+
+
+customer Details: <br/>
+<img width="889" height="483" alt="image" src="https://github.com/user-attachments/assets/b82eee77-cf86-4c88-ae57-3e73b74ca9e0" />
+
+<br />
+<br />
+
 
 </p>
 
