@@ -3,13 +3,13 @@
  
 
 <h2>Description</h2>
-Adventure Works – Sales Analysis Dashboard
+Adventure Works – Sales Analysis Dashboard <br>
 
-Project Overview
+<h4>Project Overview</h4>
 
 Developed an interactive Power BI dashboard using the Adventure Works dataset to analyze sales performance, product trends, customer behavior, and regional sales. The project transforms raw business data into meaningful insights to support data-driven decision-making.
 
-Key Features
+<h4>Key Features</h4>
 
 Analyzed total revenue, profit, orders, and sales trends.
 Evaluated product performance and identified top-selling products.
